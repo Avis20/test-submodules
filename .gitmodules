@@ -1,0 +1,3 @@
+[submodule "MySubmodule"]
+	path = MySubmodule
+	url = https://github.com/Avis20/MySubmodule.git
